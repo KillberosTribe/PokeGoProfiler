@@ -1,0 +1,16 @@
+CREDITS TO AnthonyOSX
+EDITED BY KillberosTribe
+
+Requirements:
+Python 2.7.12 (MAKE SURE ITS THE RIGHT VERSION) https://www.python.org/downloads/
+PyWin32 https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win32-py2.7.exe/download
+GO Bot v0.0.5
+
+Instructions
+
+1. Run the bot PokeGoProfilerV0.0.5.py
+2. Create profile by typing in profile and enter
+3a. Enter all information the program asks (username, password, longitude, latitude, etc...)
+3b. Location of file can be easily found by right clicking GO Bot.exe and copy and pasting location. BUT YOU NEED TO ADD \Go Bot v0.0.5.exe at the end.
+4. Run your created profile by entering profile name
+5. profit???
