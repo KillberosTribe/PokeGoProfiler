@@ -5,7 +5,9 @@ Credits to AnthonyOSX
 Edited by KillberosTribe
 ## Requirements
 Python 2.7.12 (MAKE SURE ITS THE RIGHT VERSION) - https://www.python.org/downloads/
+
 PyWin32 - https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win32-py2.7.exe/download
+
 GO Bot v0.0.5 - https://github.com/AnthonyOSX/GO-Bot
 
 ## Features
