@@ -28,4 +28,5 @@ Also allows for different settings on each bot (location, auto-evolve, transfer 
 
 5 - profit???
 
-
+## PokeGoBot Q&A
+http://freetexthost.com/ti5ehqeb0s
